@@ -1,7 +1,3 @@
-# Let's combine the three README files into one.
-# We'll preserve their headings, content, and avoid repeating the MIT License three times — instead, we'll put it once at the end.
-
-# Extracted contents from the search results
 readme1 = """# 🔑 Random Password Generator (Advanced)
 
 A professional Tkinter-based desktop app for generating secure passwords with multiple customization options, password history, themes, and export to `.exe`.
